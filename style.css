@@ -1,5 +1,10 @@
 a {
 	font-family: helvetica, sans serif;
+	color: white;
+}
+
+.nav-link {
+	color: white;
 }
 
 .body-container {
